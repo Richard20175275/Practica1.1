@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 
 namespace WEBAPI
 {
-    public class ClaseCambio
+    class ClaseCambio
     {
         public int MiPropiedad { get; set; }
     }
